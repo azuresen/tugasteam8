@@ -1,0 +1,5 @@
+Nama : Dwi Kelly Putri Sella
+Kelas : XI TIP 2
+
+4. Buatkan kesimpulan menurut team kalian  bahasa pemrograman apa yang lebih disukai dan berikan alasannya?
+bahasa pemrograman yang disukai adalah JavaScript, karena JavaScript dapat menyederhanakan sistem perangkat lunak, kontrol perangkat keras, serta proses otomatisasi produk web yang kompleks.
