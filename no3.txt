@@ -1,0 +1,24 @@
+Nama : William Setiawan
+Kelas : XI – TIP 2
+Mapel : PPB
+NIS : 6474
+------------------------------------------------------------------------------------------------------------------
+3. Cari Bahasa pemrograman dalam membuat aplikasi mobile selain react native, kemudian berikan perbedaan dengan react native ?
+Jawab : Selain React Native, terdapat beberapa bahasa pemrograman lain yang dapat digunakan untuk membuat aplikasi mobile, seperti:
+
+1. Flutter (Dart):
+Flutter adalah framework yang dikembangkan oleh Google untuk membuat aplikasi mobile dengan menggunakan bahasa pemrograman Dart. Dart adalah bahasa pemrograman yang dirancang khusus untuk Flutter dan memiliki sintaks yang mirip dengan bahasa-bahasa seperti JavaScript dan Java. Flutter menggunakan pendekatan "write once, run anywhere" yang berarti kode yang sama dapat digunakan untuk membuat aplikasi untuk platform iOS dan Android.
+Perbedaan dengan React Native:
+
+•	Bahasa Pemrograman: React Native menggunakan JavaScript, yang merupakan bahasa yang lebih populer dan lebih banyak digunakan dibandingkan Dart. Dart mungkin memerlukan waktu lebih untuk dikuasai bagi pengembang yang tidak memiliki pengalaman sebelumnya dengan bahasa tersebut.
+•	Performa: Flutter sering dianggap memiliki kinerja yang lebih baik daripada React Native karena Flutter menggunakan rendering yang berbasis Skia dan dapat menghasilkan aplikasi dengan kecepatan tinggi.
+•	UI dan UX: Flutter memiliki widget khusus yang sepenuhnya disesuaikan dan dirancang untuk mengikuti pedoman desain masing-masing platform, sehingga membuat aplikasi terlihat lebih native dibandingkan dengan React Native.
+•	Komunitas dan Ekosistem: Meskipun komunitas Flutter terus berkembang, komunitas React Native tetap lebih besar dan ekosistemnya lebih mapan karena sudah lebih lama berada di pasar.
+2. Kotlin (untuk Android) dan Swift (untuk iOS):
+Kotlin adalah bahasa pemrograman yang disukai untuk pengembangan aplikasi Android, sementara Swift adalah bahasa pemrograman resmi yang digunakan untuk pengembangan aplikasi iOS. Kedua bahasa ini dioptimalkan untuk bekerja dengan platform masing-masing.
+Perbedaan dengan React Native:
+
+•	Spesifik Platform: Kotlin dan Swift adalah bahasa yang spesifik untuk platform Android dan iOS, masing-masing. Jadi, Anda perlu menulis kode terpisah untuk setiap platform jika ingin membangun aplikasi lintas platform.
+•	Integrasi: Karena Kotlin dan Swift adalah bahasa resmi dari platform masing-masing, mereka lebih mudah untuk berintegrasi dengan API dan alat bawaan dari sistem operasi.
+•	Kinerja: Secara umum, aplikasi yang dikembangkan menggunakan bahasa resmi (Kotlin dan Swift) cenderung memiliki kinerja yang lebih baik daripada aplikasi hybrid yang dibangun dengan React Native.
+Perlu dicatat bahwa pilihan bahasa pemrograman dan framework untuk pengembangan aplikasi mobile juga dapat dipengaruhi oleh preferensi pribadi, keahlian tim pengembang, dan kebutuhan proyek. Semua pilihan di atas memiliki kelebihan dan kelemahan masing-masing, jadi penting untuk mengevaluasi dengan cermat sebelum memulai pengembangan aplikasi.
