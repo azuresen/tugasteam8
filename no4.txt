@@ -1,0 +1,5 @@
+Nama:Dwi Kelly Putri Sella 
+Kelas:XI TIP 2
+
+4. Buatkan kesimpulan menurut team kalian bahasa pemograman yang banyak disukai dan berikan alasannya?
+jadi bahsa pemrograman yang disukai dalah javaScript, karena javaScript dapat menyederhanakan sistem perangkat lunak, kontrol perangkat keras, dan proses otomatisasi produk web yang kompleks. 
